@@ -1,7 +1,25 @@
-## Hi there 👋
+<h1>Hi, I'm Paul! <a href="https://www.linkedin.com/in/paul-hickey-811b6aa8">Aspiring Cybersecurity Professional</a>
+<h2>🔭 Governance Projects:</h2>
+
+- [<b>NIST CSF assessment and Implementation for MY HOME</b>](https://github.com/paul-hickey-cybersecurity/CSF-Assessment-and-Implementation-of-MY-HOME)
+  
+- <b>NIST RMF Series Mock Assessment of HYPOTHETICAL COMPANY</b>
+  
+
+<h2>🔧 Technical Projects:</h2>
+
+- [<b>TryHackMe hands-on training</b>](https://tryhackme.com/r/p/paullypaull)
+
+<h2> ⛓ Connect with me:</h2>
+
+
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+[linkedin]: https://www.linkedin.com/in/paul-hickey-811b6aa8
 
 <!--
-**paul-hickey-cybersecurity/paul-hickey-cybersecurity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
