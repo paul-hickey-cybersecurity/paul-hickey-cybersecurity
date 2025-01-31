@@ -3,7 +3,7 @@
 
 - [<b>NIST CSF assessment and Implementation for MY HOME</b>](https://github.com/paul-hickey-cybersecurity/CSF-Assessment-and-Implementation-of-MY-HOME)
   
-- <b>NIST RMF Series Mock Assessment of HYPOTHETICAL COMPANY</b>
+- [<b>NIST RMF Series Mock Assessment of BLANK INC.</b>(https://github.com/paul-hickey-cybersecurity/CSF-Assessment-and-Implementation-of-MY-HOME)]
   
 
 <h2>🔧 Technical Projects:</h2>
