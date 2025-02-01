@@ -1,5 +1,5 @@
 <h1>Hi, I'm Paul! <a href="https://www.linkedin.com/in/paul-hickey-811b6aa8">Aspiring Cybersecurity Professional</a>
-<h2>🔭 Governance Projects:</h2>
+<h2>🔭 GRC Projects:</h2>
 
 - [<b>NIST CSF assessment and Implementation for MY HOME</b>](https://github.com/paul-hickey-cybersecurity/CSF-Assessment-and-Implementation-of-MY-HOME)
   
